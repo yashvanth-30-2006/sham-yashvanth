@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fghg
+=======
+hwjyghfghg
+>>>>>>> feature-branch
